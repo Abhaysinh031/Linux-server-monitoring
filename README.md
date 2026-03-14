@@ -30,16 +30,6 @@ Git & GitHub
 
 ---
 
-## Project Structure
-
-linux-server-monitoring/
-│
-├── monitor.sh
-├── README.md
-└── screenshots/
-
----
-
 ## How It Works
 
 1. The Bash script collects CPU, memory, and disk usage information.
