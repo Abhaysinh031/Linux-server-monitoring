@@ -100,7 +100,6 @@ Run:
 ```
 
 crontab -e
-
 ```
 
 Add this line:
@@ -108,7 +107,6 @@ Add this line:
 ```
 
 */5 * * * * /linux-server-monitoring/monitor.sh
-
 ```
 
 ### 5. Configure Telegram Bot
