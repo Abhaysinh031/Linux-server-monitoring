@@ -98,14 +98,12 @@ chmod +x monitor.sh
 Run:
 
 ```
-
 crontab -e
 ```
 
 Add this line:
 
 ```
-
 */5 * * * * /linux-server-monitoring/monitor.sh
 ```
 
