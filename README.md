@@ -10,11 +10,17 @@ The script checks system resources such as CPU usage, memory usage, disk space, 
 ## Features
 
 • CPU usage monitoring
+
 • Memory usage monitoring
+
 • Disk space monitoring
+
 • Automatic service restart (SSH)
+
 • Telegram alert notifications
+
 • Logging of server health status
+
 • Automated monitoring using cron jobs
 
 ---
@@ -38,10 +44,15 @@ Git & GitHub
 ## How It Works
 
 1. The Bash script collects CPU, memory, and disk usage information.
+
 2. If usage exceeds predefined limits (e.g., 80%), an alert is triggered.
+
 3. The script checks whether the SSH service is running.
+
 4. If SSH is down, it automatically restarts the service.
+
 5. A Telegram alert is sent to notify the administrator.
+
 6. All events are recorded in a log file for monitoring history.
 
 ---
