@@ -115,7 +115,8 @@ Git Version Control
 ## Screenshots
 
 ### Telegram Alert
-
+![Telegram Alert](screenshots/telegram-alert.png)
+ 
 
 ---
 
