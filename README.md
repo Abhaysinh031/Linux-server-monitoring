@@ -93,7 +93,25 @@ cd linux-server-monitoring
 
 chmod +x monitor.sh
 
-### 4. Configure Telegram Bot
+### 4. Open Crontab
+
+Run:
+
+```
+
+crontab -e
+
+```
+
+Add this line:
+
+```
+
+*/5 * * * * /linux-server-monitoring/monitor.sh
+
+```
+
+### 5. Configure Telegram Bot
 
 Edit the script and add your Telegram Bot Token and Chat ID.
 
@@ -101,7 +119,7 @@ BOT_TOKEN="bot_token"
 
 CHAT_ID="chat_id"
 
-### 5. Run the Script
+### 6. Run the Script
 
 ./monitor.sh
 
