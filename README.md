@@ -123,7 +123,7 @@ Git Version Control
  
 ### Log File Output
 
-![Log Output](Screenshots/log-output.png)
+![Log Output](Screenshots/Log-output.png)
 
 ---
 
