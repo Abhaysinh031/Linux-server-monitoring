@@ -44,7 +44,9 @@ Git & GitHub
 ## Example Telegram Alert
 
 CPU ALERT
+
 CPU usage: 91%
+
 Server: ip-172-31-37-90
 
 ---
@@ -80,6 +82,7 @@ chmod +x monitor.sh
 Edit the script and add your Telegram Bot Token and Chat ID.
 
 BOT_TOKEN="bot_token"
+
 CHAT_ID="chat_id"
 
 ### 5. Run the Script
