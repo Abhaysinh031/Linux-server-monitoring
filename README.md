@@ -22,10 +22,15 @@ The script checks system resources such as CPU usage, memory usage, disk space, 
 ## Technologies Used
 
 Linux
+
 Bash Scripting
+
 Cron Jobs
+
 Systemctl (Service Management)
+
 Telegram Bot API
+
 Git & GitHub
 
 ---
