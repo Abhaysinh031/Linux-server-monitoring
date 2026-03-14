@@ -116,7 +116,14 @@ Git Version Control
 
 ### Telegram Alert
 ![Telegram Alert](Screenshots/Telegram-alert.png)
+
+### Script Running
+
+![Script Running](Screenshots/script-run.png)
  
+### Log File Output
+
+![Log Output](Screenshots/log-output.png)
 
 ---
 
