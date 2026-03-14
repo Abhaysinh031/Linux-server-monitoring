@@ -47,7 +47,7 @@ CPU ALERT
 
 CPU usage: 91%
 
-Server: ip-172-31-37-90
+Server: Server-monitor
 
 ---
 
